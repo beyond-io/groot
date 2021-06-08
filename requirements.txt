@@ -5,4 +5,4 @@ flask_login==0.4.1
 flask_wtf==0.14.3
 email_validator==1.1.1
 flask-bcrypt==0.7.1
-pillow==7.1.2
+pillow==8.2.0
